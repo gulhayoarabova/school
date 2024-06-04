@@ -1,0 +1,10 @@
+.wrapper{
+
+    margin-top: 50px !important;
+}
+.ant-card {
+    background-color: rgb(0, 119, 79) !important;
+  }
+.ant-card:hover {
+    background-color: rgb(5, 165, 112) !important;
+  }
